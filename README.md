@@ -24,8 +24,8 @@ $ python3 main.py
 
 ## Tutorial ##
 
-[![asciicast](https://asciinema.org/a/1vJ89UMW83cbjEA8syprYJDJ6.png)](https://asciinema.org/a/1vJ89UMW83cbjEA8syprYJDJ6)
-
-### You can also choose to plot a PIE Chart: ###
+### You can choose to plot a PIE Chart: ###
 
 ![resources/graph.png](resources/chart.png)
+
+[![asciicast](https://asciinema.org/a/1vJ89UMW83cbjEA8syprYJDJ6.png)](https://asciinema.org/a/1vJ89UMW83cbjEA8syprYJDJ6)
