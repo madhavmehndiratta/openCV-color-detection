@@ -18,11 +18,11 @@ $ pip3 install -r requirements.txt
 $ python3 main.py
 ```
 
+## Tutorial ##
+
 ### I'll be using this image for this tutorial: ###
 
 ![resources/image.jpg](resources/image.jpg)
-
-## Tutorial ##
 
 ### You can choose to plot a PIE Chart: ###
 
